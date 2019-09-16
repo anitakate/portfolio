@@ -1,0 +1,28 @@
+body{
+    background-color: blue;
+    
+}
+p{
+color: darkgreen;
+
+
+}
+h1,h2,h3{
+    color: darkred;
+    text-align: justify;
+}
+.flex-box1{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.flex-box1 > div{
+    background-color: azure;
+    margin: 20px;
+    height: 200px;
+    width: 300px;
+    font-size: 20px;
+    float: right;
+
+}

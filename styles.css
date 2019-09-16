@@ -1,9 +1,8 @@
 body{
     background-color: blue;
-    
 }
 p{
-color: darkgreen;
+color: black;
 
 
 }
@@ -18,9 +17,9 @@ h1,h2,h3{
     flex-wrap: wrap;
 }
 .flex-box1 > div{
-    background-color: azure;
+    background-color: rgb(142, 252, 252);
     margin: 20px;
-    height: 200px;
+    height: 300px;
     width: 300px;
     font-size: 20px;
     float: right;
